@@ -1,0 +1,25 @@
+{
+   "name": "desafio_assistente",
+   "version": "1.0.0",
+   "description": "< Desafio para vaga de assistente em backend nodeJS >",
+   "homepage": "https://github.com/Viniciusrodd/Desafio_nodeJS#readme",
+   "bugs": {
+      "url": "https://github.com/Viniciusrodd/Desafio_nodeJS/issues"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Viniciusrodd/Desafio_nodeJS.git"
+   },
+   "license": "ISC",
+   "author": "",
+   "type": "module",
+   "main": "index.js",
+   "scripts": {
+      "start": "node server.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "dependencies": {
+      "dotenv": "^18.0.9",
+      "express": "^5.3.0"
+   }
+}
